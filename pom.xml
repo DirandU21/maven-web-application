@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.205.81.73:8081/repository/jenkins_pipeline_release/</url>
+	      <url>http://3.87.108.111:8081/repository/jenkins_pipeline_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.205.81.73:8081/repository/jenkins_pipeline_snapshot/</url>
+	      <url>http://3.87.108.111:8081/repository/jenkins_pipeline_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
